@@ -1,0 +1,21 @@
+src_lat,src_lng,dst_lat,dst_long,src_name,dest_name,weight,passengers,flight_num,cargo_description,departure_date,arrival_date
+34.0522,-118.2437,51.5074,-0.1278,Los Angeles International,London Heathrow,25000,5,LA1234,Electronics,2023-08-20 14:00,2023-08-21 07:00
+40.7128,-74.0060,35.6895,139.6917,JFK International,Tokyo Haneda,22000,8,JK5678,Auto Parts,2023-08-20 16:00,2023-08-21 20:00
+52.3702,4.8952,1.3521,103.8198,Amsterdam Schiphol,Singapore Changi,24000,4,AS9123,Fresh Flowers,2023-08-20 10:00,2023-08-21 04:00
+33.8688,151.2093,37.7749,-122.4194,Sydney Kingsford-Smith,San Francisco International,23000,6,SK4567,Wines and Spirits,2023-08-20 12:00,2023-08-21 05:00
+-23.5505,-46.6333,48.8566,2.3522,São Paulo–Guarulhos,Paris Charles de Gaulle,21000,5,SP7890,Leather Goods,2023-08-20 07:00,2023-08-20 19:00
+25.7617,-80.1918,41.9028,12.4964,Miami International,Rome Fiumicino,26000,7,MI1011,Fruits and Vegetables,2023-08-20 09:00,2023-08-20 22:00
+35.6895,139.6917,19.4326,-99.1332,Tokyo Haneda,Mexico City International,21000,8,TH1213,Electronics,2023-08-20 20:00,2023-08-21 03:00
+51.5074,-0.1278,39.9042,116.4074,London Heathrow,Beijing Capital,23000,6,LH1415,Clothing,2023-08-20 15:00,2023-08-21 09:00
+37.7749,-122.4194,-33.8688,151.2093,San Francisco International,Sydney Kingsford-Smith,24000,5,SF1617,Machinery,2023-08-20 08:00,2023-08-21 23:00
+41.9028,12.4964,34.0522,-118.2437,Rome Fiumicino,Los Angeles International,22000,8,RF1819,Wines,2023-08-20 10:00,2023-08-20 21:00
+1.3521,103.8198,52.3702,4.8952,Singapore Changi,Amsterdam Schiphol,25000,4,SC2021,Fish,2023-08-20 12:00,2023-08-20 18:00
+48.8566,2.3522,40.7128,-74.0060,Paris Charles de Gaulle,JFK International,23000,7,PC2324,Luxury Goods,2023-08-20 14:00,2023-08-20 19:00
+19.4326,-99.1332,33.8688,151.2093,Mexico City International,Sydney Kingsford-Smith,24000,6,MC2526,Handcrafts,2023-08-20 11:00,2023-08-21 12:00
+39.9042,116.4074,37.7749,-122.4194,Beijing Capital,San Francisco International,21000,5,BC2728,Toys,2023-08-20 09:00,2023-08-20 20:00
+-33.8688,151.2093,25.7617,-80.1918,Sydney Kingsford-Smith,Miami International,22000,8,SK2930,Cosmetics,2023-08-20 07:00,2023-08-20 19:00
+35.6895,139.6917,52.3702,4.8952,Tokyo Haneda,Amsterdam Schiphol,24000,4,TH3132,Car Parts,2023-08-20 15:00,2023-08-21 06:00
+41.9028,12.4964,1.3521,103.8198,Rome Fiumicino,Singapore Changi,23000,7,RF3334,Chocolates,2023-08-20 17:00,2023-08-21 10:00
+48.8566,2.3522,-23.5505,-46.6333,Paris Charles de Gaulle,São Paulo–Guarulhos,25000,6,PC3536,Fragrances,2023-08-20 09:00,2023-08-20 17:00
+34.0522,-118.2437,41.9028,12.4964,Los Angeles International,Rome Fiumicino,26000,5,LA3738,Raw Materials,2023-08-20 08:00,2023-08-20 21:00
+35.6895,139.6917,37.7749,-122.4194,Tokyo Haneda,San Francisco International,27000,8,TH3940,Pharmaceuticals,2023-08-20 18:00,2023-08-21 08:00
