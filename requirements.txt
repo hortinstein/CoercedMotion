@@ -1,0 +1,7 @@
+pandas
+dash
+dash_bootstrap_components
+folium
+simplekml
+schedule
+dash_daq
