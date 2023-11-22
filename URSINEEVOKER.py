@@ -72,10 +72,14 @@ def update_map(n):
         color_discrete_sequence=["fuchsia"], 
         height=400)
 
-    fig.update_layout(mapbox_style="open-street-map")
-    fig.update_layout(uirevision="true")
-    # fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+    # Set the zoom level and center
+    fig.update_layout(mapbox_style="open-street-map", 
+                      mapbox_zoom=1, 
+                      mapbox_center={"lat": 20, "lon": 0},  # Example center coordinates
+                      uirevision='constant')
+
     return fig
+
 
 # Callback for updating the DataFrame
 @app.callback(Output('live-data-table', 'data'),
