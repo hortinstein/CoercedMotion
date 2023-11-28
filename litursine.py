@@ -61,13 +61,14 @@ for seconds in range(200):
             st.markdown("### Flight Map")
             fig = px.scatter_geo(df, lat='lat', lon='lon', hover_name='title')
             fig.update_layout({"uirevision": "foo"}, overwrite=True)
-            st.write(fig)
-    
+            # st.write(fig)
+            fig.update_layout(height=600)
+            st.plotly_chart(fig, use_container_width=True)
         with fig_col2:
             st.markdown("### Plane Type Distribution")
             fig2 = px.histogram(data_frame=df, x="plane_type")
-            st.write(fig2)
-
+            fig.update_layout(height=600)
+            st.plotly_chart(fig2, use_container_width=True)
         # with fig_col3:
         #     st.markdown("### Streamlit Map")
         #     st.map(df[['lat', 'lon']])
